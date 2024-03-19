@@ -20,3 +20,7 @@ function tambah (x, y) {
     return x / y;
 }
 
+
+function tambah (x, y) {
+    return x % y;
+}
